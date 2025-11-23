@@ -1,0 +1,9 @@
+{
+  "name": "Trends172",
+  "description": "A premium AI-powered content generator creating catalogue-quality images and videos from product photos using Gemini and Veo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
